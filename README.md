@@ -8,5 +8,5 @@ I have created two Markdown lesson plans:
 
 ## Solution Code
 I have also provided solution code to each activity:
-* [Activity 1: rainingCatsAndDogs (Everyone Do)](./activityOneSolution.js)
-* [Activity 2: rainingCatsAndDogs (Instructor Do)](./activityTwoSolution.js)
+* [Activity 1: rainingCatsAndDogs (Everyone Do)](./activityOneObjectSolution.js)
+* [Activity 2: rainingCatsAndDogs (Instructor Do)](./activityTwoConstructorSolution.js)
