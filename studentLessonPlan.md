@@ -12,7 +12,8 @@ Your instructor will:
 1. Introduce themselves.
 2. Give an overview of what topics will be covered and why.
 3. Review at a high level the two activities you will be completing.
-4. Guide the class through each activity
+4. Talk through and review basic JavaScript object syntax
+5. Guide the class through each activity
 
 ## Who Am I
 Roger Campbell II is a Software Engineer. He has trained over 1,000 students in the latest software technologies such as JavaScript, React, Python, Django, C#, Blockchain technologies, and much more. With a background of 10+ years in Information Technology, Roger has worked in multiple fields as a technologist. From venture capital funding, commercial real estate funding, health care data management, retail, and even continuing education, Roger’s main takeaway from his time in tech is that “you will never know more than you do not” and with that in mind he founded GemStack.
@@ -37,6 +38,13 @@ DOGS AND CATS LIVING TOGETHER! MASS HYSTERIA!
 
 ## Activity 2: rainingCatsAndDogs (Instructor Do)
 Your Instructor will demo to the cohort how to optimized the code that was developed in `Activity 1` to utilize a `Constructor Function`.
+
+## Concept Review
+* What is a JS object?
+* What syntax denotes a JS object?
+* What is a key?
+* What is a method?
+* How do you access a key and or a method within an object?
 
 ## Activity Code Requirements
 ### Activity 1
