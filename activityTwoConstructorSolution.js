@@ -16,6 +16,10 @@ function Animal(isRaining, noise) {
 // We are able to create new object instances by invoking the Animal constructor functions with the "new" keyword
 const dogs = new Animal(true, "Woof!")
 const cats = new Animal(false, "Meow!")
+// The new keyword does 3 things:
+// 1. Creates an empty js object
+// 2. Sets the `this` keyword equal to the empty object
+// 3. Causes the Constructor function to return the newly created object
 
 // Part 3: Invoke Methods within each Objectives
 // As you can see we are still able to invoke each objects method in the same way we did previously
