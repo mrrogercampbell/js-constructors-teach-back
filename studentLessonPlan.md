@@ -2,8 +2,8 @@
 ## Table of Contents
 - [11.1 JS Constructors](#111-js-constructors)
   - [Table of Contents](#table-of-contents)
-  - [Who Am I](#who-am-i)
   - [Agenda](#agenda)
+  - [Who Am I](#who-am-i)
   - [Learning Objectives](#learning-objectives)
   - [Lesson Topic Overview](#lesson-topic-overview)
   - [Concept Review: JS Objects](#concept-review-js-objects)
@@ -11,18 +11,10 @@
     - [Activity 1: rainingCatsAndDogs (Everyone Do)](#activity-1-rainingcatsanddogs-everyone-do)
     - [Activity 2: rainingCatsAndDogs (Instructor Do)](#activity-2-rainingcatsanddogs-instructor-do)
   - [Activity Code Requirements](#activity-code-requirements)
-    - [Activity 1](#activity-1)
-    - [Activity 2](#activity-2)
+    - [Activity 1 (We Do)](#activity-1-we-do)
+    - [Activity 2 (Instructor Do)](#activity-2-instructor-do)
     - [Key Takeaways](#key-takeaways)
   - [Further Reading](#further-reading)
-
-## Who Am I
-Before we dive into the lesson, I would like to quickly introduce myself:
-
-Roger Campbell II is a Software Engineer. He has trained over 1,000 students in the latest software technologies such as JavaScript, React, Python, Django, C#, Blockchain technologies, and much more. With a background of 10+ years in Information Technology, Roger has worked in multiple fields as a technologist. From venture capital funding, commercial real estate funding, health care data management, retail, and even continuing education, Roger’s main takeaway from his time in tech is that “you will never know more than you do not” and with that in mind he founded GemStack.
-
-[Roger@gemstack.io](mailto:roger@gemstack.io)
-[LinkedIn Profile](https://www.linkedin.com/in/mrrogercampbell/)
 
 ## Agenda
 To facilitate the achievement of our learning objectives today's lesson will be presented in the following order.
@@ -32,6 +24,14 @@ Your instructor will:
 3. Talk through and review basic JavaScript object syntax
 4. Review at a high level the two activities you will be completing.
 5. Guide the class through each activity
+
+## Who Am I
+Before we dive into the lesson, I would like to quickly introduce myself:
+
+Roger Campbell II is a Software Engineer. He has trained over 1,000 students in the latest software technologies such as JavaScript, React, Python, Django, C#, Blockchain technologies, and much more. With a background of 10+ years in Information Technology, Roger has worked in multiple fields as a technologist. From venture capital funding, commercial real estate funding, health care data management, retail, and even continuing education, Roger’s main takeaway from his time in tech is that “you will never know more than you do not” and with that in mind he founded GemStack.
+
+* [Roger@gemstack.io](mailto:roger@gemstack.io)
+* [LinkedIn Profile](https://www.linkedin.com/in/mrrogercampbell/)
 
 ## Learning Objectives
 This lesson is intended to assist you as Engineers in:
@@ -67,7 +67,7 @@ DOGS AND CATS LIVING TOGETHER! MASS HYSTERIA!
 Your Instructor will demo to the cohort how to optimized the code that was developed in `Activity 1` to utilize a `Constructor Function`.
 
 ## Activity Code Requirements
-### Activity 1
+### Activity 1 (We Do)
 Part 1:
 * Create 2 objects
   1. dogs
@@ -87,7 +87,7 @@ Part 3:
   * Print to the console "DOGS AND CATS LIVING TOGETHER! MASS HYSTERIA!"
 * Else do nothing
 
-### Activity 2
+### Activity 2 (Instructor Do)
 Part 1: Create a Constructor Function
 * Optimize the `dogs` and `cats` objects by creating a Constructor Function called `Animal` that:
   * Accepts two arguments for the redundant data that each store.

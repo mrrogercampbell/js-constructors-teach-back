@@ -2,9 +2,9 @@
 ## Table of Contents
 - [11.1 JS Constructors (Instructor Lesson Plan)](#111-js-constructors-instructor-lesson-plan)
   - [Table of Contents](#table-of-contents)
-  - [Step 1: Intro yourself](#step-1-intro-yourself)
-  - [Step 2: Agenda](#step-2-agenda)
-    - [Step 3: Check-In With Students](#step-3-check-in-with-students)
+  - [Step 1: Agenda](#step-1-agenda)
+  - [Step 2: Who Am I](#step-2-who-am-i)
+  - [Step 3: Check-In With Students](#step-3-check-in-with-students)
   - [Step 4: Learning Objectives](#step-4-learning-objectives)
   - [Step 5: Lesson Topic Overview](#step-5-lesson-topic-overview)
   - [Step 6: Concept Review: JS Objects](#step-6-concept-review-js-objects)
@@ -19,21 +19,23 @@
     - [Things to Cover](#things-to-cover)
   - [Step 10: Key Takeaways](#step-10-key-takeaways)
   - [Step 11: If You Get To Prototypes](#step-11-if-you-get-to-prototypes)
-## Step 1: Intro yourself
+
+## Step 1: Agenda
+Talk through what we will be doing today:
+1. Introduce myself.
+2. Give an overview of what topics will be covered and why.
+3. Talk through and review basic JavaScript object syntax
+4. Review at a high level the two activities you will be completing.
+5. Guide the class through each activity
+
+## Step 2: Who Am I
 Use your famous lines:
 * "You'll never know more than you do not know."
     * Explain to students how important it is to ask question and understand that they should never expect themselves to know everything or understand everything we learn in the moment
 * "Ducklings!!"
   * Explain the quick concept of who my ducklings are and that they are now a part of that family
 
-## Step 2: Agenda
-Talk through what we will be doing today:
-* Start with what we are learning and why
-* Explain the two activities we have planned
-    1. rainingCatsAndDogs (Everyone Do)- The class will assist me in creating two objects and a function.
-    2. rainingCatsAndDogs (Instructor Do) - Review the optimized code with the class and talk about how creating an Animal class that takes in all the values that the Cats and Dogs objects had is more precise and D.R.Y.
-
-### Step 3: Check-In With Students
+## Step 3: Check-In With Students
 * Ask if any students have questions
 * Be sure to ask probing question about what we just did to check that the concepts really sunk in.
 
@@ -64,19 +66,26 @@ At a high-level just let students know learning how to work with Constructor Fun
 ## Step 7: Activities Overview
 Explain at a high-level what we will be doing for each activity.
 ### Activity 1: rainingCatsAndDogs (Everyone Do)
+You and your fellow cohort-mates will assist your instructor in creating a node program that outputs the following:
+
+```sh
+Woof!
+Meow!
+DOGS AND CATS LIVING TOGETHER! MASS HYSTERIA!
+```
+
+### Activity 2: rainingCatsAndDogs (Instructor Do)
+Your Instructor will demo to the cohort how to optimized the code that was developed in `Activity 1` to utilize a `Constructor Function`.
+
+## Step 8: Activity 1 Execution
 The class will assist me in creating two objects and a function.
 
-How to Lead This Activity
+How to Lead This Activity:
 * Call on a students to get things started
   * They should be providing the answers
   * You are able to assist by nudging them in the right direction
   * Be sure to ask them probing questions as they are providing you a solution.
  * Be sure to check in with your TA on timing/pace
-
-### Activity 2: rainingCatsAndDogs (Instructor Do)
-* Optimize the code from the previous activity by creating an Animal class that can take in all the values the Cats and Dogs objects had.
-
-## Step 8: Activity 1 Execution
 ### Code Requirements
 Part 1:
 * Create 2 objects
@@ -106,6 +115,7 @@ Part 3:
 3. Ask the class if they see anything in this code which seems redundant upon further examination.
 
 ## Step 9: Activity 2 Execution
+* Optimize the code from the previous activity by creating an Animal class that can take in all the values the Cats and Dogs objects had.
 ### How to Lead This Activity
 * Open the solution code and review it with the students.
 * Ask them to point out any differences they see between the two solutions
