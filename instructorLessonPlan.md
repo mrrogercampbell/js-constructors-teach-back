@@ -1,5 +1,7 @@
 # 11.1 JS Constructors (Instructor Lesson Plan)
+## Table of Contents
 - [11.1 JS Constructors (Instructor Lesson Plan)](#111-js-constructors-instructor-lesson-plan)
+  - [Table of Contents](#table-of-contents)
   - [Step 1: Intro yourself](#step-1-intro-yourself)
   - [Step 2: Agenda](#step-2-agenda)
     - [Step 3: Check-In With Students](#step-3-check-in-with-students)

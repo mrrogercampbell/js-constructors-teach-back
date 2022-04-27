@@ -1,5 +1,7 @@
 # 11.1 JS Constructors
+## Table of Contents
 - [11.1 JS Constructors](#111-js-constructors)
+  - [Table of Contents](#table-of-contents)
   - [Who Am I](#who-am-i)
   - [Agenda](#agenda)
   - [Learning Objectives](#learning-objectives)
